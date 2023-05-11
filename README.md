@@ -4,4 +4,5 @@
 # Kubernetes - Deneme3
 # Kubernetes - Deneme4
 # Kubernetes - Deneme5
+# Kubernetes - Deneme6
  
