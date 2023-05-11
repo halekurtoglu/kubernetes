@@ -21,6 +21,6 @@ spec:
     spec:
       containers:
       - name: bootcamp-html
-        image: nergiss/pythonapp:v$DOCKER_BUILD_NUMBER
+        image: g191210067/httpapp:v$DOCKER_BUILD_NUMBER
         ports:
         - containerPort: 80
